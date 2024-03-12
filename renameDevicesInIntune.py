@@ -13,11 +13,11 @@ import requests
 import json
 
 # Replace these values with your own
-tenant_id = '13609f58-c3a5-4150-972a-45ff0ae921bd'
-client_id = '0107f7a2-173e-45a1-9a69-7ee3059ab1fc' 
-client_secret = 'Y0x8Q~MFCwUbw60CjI9XMSD~RvFWrKgVjCKEIc0r'
-device_id = 'a32d3572-c355-44e5-8b12-119e2f7eb50e'
-new_device_name = 'LittleMac'
+tenant_id = '[REDACTED]'
+client_id = '[REDACTED]' 
+client_secret = '[REDACTED]'
+device_id = '[REDACTED]'
+new_device_name = 'NewName'
 
 # Get OAuth token
 token_url = f'https://login.microsoftonline.com/{tenant_id}/oauth2/v2.0/token'
