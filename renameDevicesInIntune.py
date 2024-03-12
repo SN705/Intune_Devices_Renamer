@@ -9,7 +9,6 @@
 Rename Devices in Intune
 """
 
-
 import requests
 import json
 
